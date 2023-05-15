@@ -1,5 +1,7 @@
-a + b + 50
-b * c / x
-x = 34.21
-b * -9
-z = y / -0.9
+Prácticas de Python con interfaces en tk. 
+
+Práctica1: Hola mundo. 
+
+Práctica2: Calcular áreas de figuras. 
+
+Práctica3: Convertir temperaturas.
