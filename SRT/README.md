@@ -1,5 +1,1 @@
-a + b + 50
-b * c / x
-x = 34.21
-b * -9
-z = y / -0.9
+Algoritmo "SHORTEST REMAINING TIME", implementado con Pokémon, en NetBeans.
