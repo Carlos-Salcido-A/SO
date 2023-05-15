@@ -1,5 +1,1 @@
-a + b + 50
-b * c / x
-x = 34.21
-b * -9
-z = y / -0.9
+Algoritmo Burbuja visualizado en NetBeans
